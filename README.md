@@ -8,7 +8,7 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Data%20Analyst;Work%20hard%20in%20silence%20let%20your%20success%20make%20noise&font=Fira%20Code&center=true&width=700&height=45&color=#c4342d&vCenter=true&size=22"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Data%20Analyst;Work%20hard%20in%20silence&font=Fira%20Code&center=true&width=700&height=45&color=#c4342d&vCenter=true&size=22"></a>
 </p> 
 
 - 🏢 I'm a Data Analyst
