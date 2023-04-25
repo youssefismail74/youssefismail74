@@ -8,7 +8,7 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Data%20Analyst;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Data%20Analyst;Work%20hard%20in%20silence%20let%20your%20success%20make%20noise&font=Fira%20Code&center=true&width=700&height=45&color=#c4342d&vCenter=true&size=22"></a>
 </p> 
 
 - 🏢 I'm a Data Analyst
@@ -26,10 +26,12 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Pycharm](https://img.shields.io/badge/-Pycharm-05122A?style=flat&logo=Pycharm)&nbsp;
 ![Excell](https://img.shields.io/badge/-Excell-05122A?style=flat&logo=excell&logoColor=563D7C)&nbsp;
 ![Mathematics](https://img.shields.io/badge/-Mathematics-05122A?style=flat&logo=Mathematics&logoColor=339933)&nbsp;
 ![Statistics](https://img.shields.io/badge/-Statistics-05122A?style=flat&logo=Statistics)&nbsp;
 ![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=SQL)&nbsp;
+
 
 
 
