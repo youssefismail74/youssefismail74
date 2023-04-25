@@ -31,8 +31,7 @@
 ![Pycharm](https://img.shields.io/badge/-Pycharm-05122A?style=flat&logo=Pycharm)&nbsp;
 ![Numpy](https://img.shields.io/badge/-Numpy-05122A?style=flat&logo=Numpy)&nbsp;
 ![pandas](https://img.shields.io/badge/-pandas-05122A?style=flat&logo=pandas)&nbsp;
-![MatPlotLib](https://img.shields.io/badge/-Matplotlib-05122A?style=flat&logo=Matplotlib)&nbsp;
-![Excell](https://img.shields.io/badge/-Excell-05122A?style=flat&logo=excell&logoColor=563D7C)&nbsp;
+![Excel](https://img.shields.io/badge/-Excel-05122A?style=flat&logo=Excel)&nbsp;
 ![Mathematics](https://img.shields.io/badge/-Mathematics-05122A?style=flat&logo=Mathematics&logoColor=339933)&nbsp;
 ![Statistics](https://img.shields.io/badge/-Statistics-05122A?style=flat&logo=Statistics)&nbsp;
 ![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=SQL)&nbsp;
