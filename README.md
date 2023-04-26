@@ -31,10 +31,11 @@
 ![Pycharm](https://img.shields.io/badge/-Pycharm-05122A?style=flat&logo=Pycharm)&nbsp;
 ![Numpy](https://img.shields.io/badge/-Numpy-05122A?style=flat&logo=Numpy)&nbsp;
 ![pandas](https://img.shields.io/badge/-pandas-05122A?style=flat&logo=pandas)&nbsp;
+![MYSQL](https://img.shields.io/badge/-MYSQL-05122A?style=flat&logo=MYSQL)&nbsp;
 ![Excel](https://img.shields.io/badge/-Excel-05122A?style=flat&logo=Excel)&nbsp;
 ![Mathematics](https://img.shields.io/badge/-Mathematics-05122A?style=flat&logo=Mathematics&logoColor=339933)&nbsp;
 ![Statistics](https://img.shields.io/badge/-Statistics-05122A?style=flat&logo=Statistics)&nbsp;
-![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=SQL)&nbsp;
+
 
 
 
